@@ -1,6 +1,9 @@
 
-1)what is the purpose of a repository
+1)what is
+the purpose of a repository
 how to switch b/w repositories
-difference b/w commit and add
+diffe
+
+rence b/w commit and add
 how to commit or add two files at the same time
 how to commit or add two files at the same time
