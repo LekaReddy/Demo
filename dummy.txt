@@ -2,4 +2,8 @@
 this is a dummy file
 this is an edited dummy file from web.
 Im again editing this file
+<<<<<<< HEAD
 i dont know what im doing
+=======
+Im again editing this file again and again
+>>>>>>> 3c39b2a3017d1bb2efd615bf88be14072a1ed86c
